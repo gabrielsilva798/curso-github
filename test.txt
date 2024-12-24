@@ -1,2 +1,1 @@
-MODULO 2
-17. Revertendo arquivo (checkout)
+continuar do MODULO 3
